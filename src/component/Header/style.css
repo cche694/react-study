@@ -1,0 +1,19 @@
+/*
+* @Author: chang__ccge
+* @Date:   2020-09-09 02:17:01
+* @Last Modified by:   chang__ccge
+* @Last Modified time: 2020-09-09 02:59:13
+*/
+.logo{
+	height: 45px;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+.ant-menu{
+	float: left !important;
+	line-height: 45px !important;
+	border: none !important;
+	margin-top: 10px;
+	margin-left: 80px !important;
+}

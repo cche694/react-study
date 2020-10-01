@@ -1,0 +1,11 @@
+/*
+* @Author: chang__ccge
+* @Date:   2020-09-10 16:44:54
+* @Last Modified by:   chang__ccge
+* @Last Modified time: 2020-09-10 16:48:22
+*/
+.ant-card-body img{
+	float: left;
+	clear: both;
+	margin: 10px 10px 10px 0;
+}

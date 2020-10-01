@@ -1,0 +1,25 @@
+/*
+* @Author: chang__ccge
+* @Date:   2020-09-08 23:23:11
+* @Last Modified by:   chang__ccge
+* @Last Modified time: 2020-09-11 06:17:17
+*/
+.header{
+	background: #fff;
+	border-bottom: 1px solid #999;
+}
+.content{
+	min-height: 800px;
+	margin: 20px
+}
+.footer{
+	text-align: center;
+	border-top: 1px solid #999;
+}
+.ant-list{
+	color: #5959AF;
+	font-weight: bolder
+}
+.ant-card-head-title{
+	font-size: 50px
+}
